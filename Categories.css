@@ -1,0 +1,14 @@
+.categories {
+    margin: 20px; /* Add margin as per your design */
+    width: 80%; /* Set the desired width */
+    border-collapse: collapse;
+     /* Optional: Collapse borders between table cells */
+    
+}
+.categories caption {
+    font-size: 24px; /* Optional: Customize the caption font size */
+}
+.categories td {
+    padding: 10px; /* Optional: Add padding to table cells */
+    text-align: center; /* Optional: Center-align the cell content */
+}
