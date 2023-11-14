@@ -1,14 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('categoriesBG.jpeg') no-repeat center center fixed;
+    background-size: cover;
+}
+
 .categories {
-    margin: 20px; /* Add margin as per your design */
-    width: 80%; /* Set the desired width */
+    width: 80%;
     border-collapse: collapse;
-     /* Optional: Collapse borders between table cells */
-    
+    margin: 20px auto; /* Center the table horizontally with auto margins */
 }
+
 .categories caption {
-    font-size: 24px; /* Optional: Customize the caption font size */
+    font-size: 24px;
 }
+
 .categories td {
-    padding: 10px; /* Optional: Add padding to table cells */
-    text-align: center; /* Optional: Center-align the cell content */
+    padding: 10px;
+    text-align: center;
 }
