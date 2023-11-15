@@ -1,0 +1,65 @@
+{
+    "companies": [
+      {
+        "question": "Guess the logo",
+        "options": ["Paramount", "Metro-Goldwyn-Mayer", "Dreamworks", "20th Century Fox"],
+        "answer": "Paramount",
+        "image" : "logo_images/paramount_small.gif"
+      },
+      {
+        "question": "Guess the logo",
+        "options": ["Citroen", "Campbells", "Coca-Cola", "British Airways"],
+        "answer": "Coca-Cola",
+        "image" : "logo_images/coca-cola_small.gif"
+      },
+      {
+        "question": "Guess the logo",
+        "options": ["Bank of America", "US Mint", "Mastercard", "American Express"],
+        "answer": "American Express",
+        "image" : "logo_images/american_express_small.gif"
+      },
+      {
+        "question": "Guess the logo",
+        "options": ["Quaker", "KFC", "Pringles", "Mr. Clean"],
+        "answer": "KFC",
+        "image" :"logo_images/kentucky_fried_chicken_kfc_small.gif"
+      },
+      {
+        "question": "Guess the logo",
+        "options": ["Qdoba", "Illy", "Coca-Cola", "Disney"],
+        "answer": "Disney",
+        "image" : "logo_images/disney_entertainment_small.gif"
+      },
+      {
+        "question": "Guess the logo",
+        "options": ["RCA", "Sony", "Sharp", "LG"],
+        "answer": "LG",
+        "image":"logo_images/lg_electronics_small.gif"
+      },
+      {
+        "question": "Guess the logo",
+        "options": ["Sega", "FDA", "The North Face", "CNN"],
+        "answer": "The North Face",
+        "image": "logo_images/the_north_face_small.gif"
+      },
+      {
+        "question": "Guess the logo",
+        "options": ["British Airways", "Delta", "Lufthansa", "Boeing"],
+        "answer": "British Airways",
+        "image": "logo_images/british_airways_small.gif"
+      },
+      {
+        "question": "Guess the logo",
+        "options": ["Mobil", "Shell", "Citgo", "BP"],
+        "answer": "BP",
+        "image": "logo_images/bp_small.gif"
+      },
+      {
+        "question": "Guess the logo",
+        "options": ["Paramount", "Dreamworks", "New Line Cinema", "Metro-Goldwyn-Mayer"],
+        "answer": "New Line Cinema",
+        "image": "logo_images/new_line_cinema_small.gif"
+      }
+    ]
+  }
+  
