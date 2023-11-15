@@ -1,0 +1,54 @@
+{
+    "questions": [
+      {
+        "question": "Which country is known as the 'Land of the Rising Sun?'",
+        "options": ["China", "Japan", "South Korea", "Vietnam"],
+        "answer": "Japan"
+      },
+      {
+        "question": "What is the capital of Brazil?",
+        "options": ["Buenos Aires", "Rio de Janeiro", "Brasília", "Santiago"],
+        "answer": "Brasília"
+      },
+      {
+        "question": "Which river is the longest in the world?",
+        "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+        "answer": "Nile River"
+      },
+      {
+        "question": "In which continent is the Sahara Desert located?",
+        "options": ["Asia", "Africa", "South America", "Australia"],
+        "answer": "Africa"
+      },
+      {
+        "question": "What is the currency of India?",
+        "options": ["Rupee", "Baht", "Yen", "Rupiah"],
+        "answer": "Rupee"
+      },
+      {
+        "question": "Which mountain is the highest in North America?",
+        "options": ["Mount Kilimanjaro", "Mount Everest", "Denali (Mount McKinley)", "Mount Elbrus"],
+        "answer": "Denali (Mount McKinley)"
+      },
+      {
+        "question": "Where is the Great Barrier Reef located?",
+        "options": ["Hawaii", "Australia", "Belize", "Philippines"],
+        "answer": "Australia"
+      },
+      {
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+        "answer": "Ottawa"
+      },
+      {
+        "question": "Which ocean is the largest?",
+        "options": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Southern Ocean"],
+        "answer": "Pacific Ocean"
+      },
+      {
+        "question": "What is the official language of Argentina?",
+        "options": ["Portuguese", "Spanish", "Italian", "French"],
+        "answer": "Spanish"
+      }
+    ]
+  }
