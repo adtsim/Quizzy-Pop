@@ -3,27 +3,15 @@ document.addEventListener("DOMContentLoaded", function() {
     const nameInput = document.getElementById("name");
 
     startButton.addEventListener("click", function() {
-        const playerName = nameInput.value.trim(); // Trim the input to remove leading and trailing spaces
-
-        if (playerName === "") {
+        const player_name = nameInput.value;
+        if (player_name === "") { // Check if the input is an empty string
             alert("Please enter your name!");
         } else {
-            console.log(`Starting the quiz for ${playerName}`);
-            storePlayerName(playerName);
-            hideWelcomePage();
+            console.log("Starting the quiz for " + player_name);
+            // Store the player name in localStorage
+            localStorage.setItem("playerName", player_name);
+            // Close the welcome page if needed.
+            document.querySelector(".welcome-page").style.display = "none";
         }
     });
-
-    function storePlayerName(name) {
-        // Store the player name in localStorage
-        localStorage.setItem("playerName", name);
-    }
-
-    function hideWelcomePage() {
-        // Close the welcome page if needed.
-        const welcomePage = document.querySelector(".welcome-page");
-        if (welcomePage) {
-            welcomePage.style.display = "none";
-        }
-    }
 });
