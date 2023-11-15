@@ -7,11 +7,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
     if (playerName) {
         console.log("Player's name retrieved from localStorage: " + playerName);
-       
+
+        // Display the player's name in the HTML element with id "playerName"
+        const playerNameElement = document.getElementById("playerName");
+        playerNameElement.textContent = "Hello, " + playerName + "!";
     } else {
         console.log("Player's name not found in localStorage.");
     }
-
-
-    
 });
