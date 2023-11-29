@@ -59,6 +59,69 @@
         "options": ["Paramount", "Dreamworks", "New Line Cinema", "Metro-Goldwyn-Mayer"],
         "answer": "New Line Cinema",
         "image": "logo_images/new_line_cinema_small.gif"
+      },
+      {
+        "question": "Which is the correct NASA logo?",
+        "options": ["A", "B"],
+        "answer": "A",
+        "image": "logo_images/NASA.png"
+      },
+      {
+        "question": "Which is the correct adidas logo?",
+        "options": ["A", "B"],
+        "answer": "B",
+        "image": "logo_images/adidas.png"
+      },
+      {
+        "question": "Which is the correct BMW logo?",
+        "options": ["A", "B"],
+        "answer": "B",
+        "image": "logo_images/BMW.png"
+      },
+    
+      {
+        "question": "Which is the correct amazon logo?",
+        "options": ["A", "B"],
+        "answer": "B",
+        "image": "logo_images/amazon.png"
+      },
+      
+      {
+        "question": "Which is the correct Starbucks logo?",
+        "options": ["A", "B"],
+        "answer": "A",
+        "image": "logo_images/Starbucks.png" 
+      },
+      {
+        "question": "Which is the correct Marmite logo?",
+        "options": ["A", "B"],
+        "answer": "A",
+        "image": "logo_images/Marmite.png" 
+      },
+      
+      {
+        "question": "Which is the correct Domino's logo?",
+        "options": ["A", "B"],
+        "answer": "A",
+        "image": "logo_images/Domino's.png"
+      },
+      {
+        "question": "Which is the correct Cadbury logo?",
+        "options": ["A", "B"],
+        "answer": "A",
+        "image": "logo_images/Cadbury.png"
+      },
+      {
+        "question": "Which is the correct App Store logo?",
+        "options": ["A", "B"],
+        "answer": "B",
+        "image": "logo_images/Apple_store.png"
+      },
+      {
+        "question": "Which is the correct Google logo?",
+        "options": ["A", "B"],
+        "answer": "A",
+        "image": "logo_images/Google.png"
       }
     ]
   }
