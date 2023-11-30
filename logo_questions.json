@@ -4,124 +4,144 @@
         "question": "Guess the logo",
         "options": ["Paramount", "Metro-Goldwyn-Mayer", "Dreamworks", "20th Century Fox"],
         "answer": "Paramount",
-        "image" : "logo_images/paramount_small.gif"
+        "image" : "logo_images/paramount_small.gif",
+        "level" : "easy"
       },
       {
         "question": "Guess the logo",
         "options": ["Citroen", "Campbells", "Coca-Cola", "British Airways"],
         "answer": "Coca-Cola",
-        "image" : "logo_images/coca-cola_small.gif"
+        "image" : "logo_images/coca-cola_small.gif",
+        "level" :"easy"
       },
       {
         "question": "Guess the logo",
         "options": ["Bank of America", "US Mint", "Mastercard", "American Express"],
         "answer": "American Express",
-        "image" : "logo_images/american_express_small.gif"
+        "image" : "logo_images/american_express_small.gif",
+        "level" :"easy"
       },
       {
         "question": "Guess the logo",
         "options": ["Quaker", "KFC", "Pringles", "Mr. Clean"],
         "answer": "KFC",
-        "image" :"logo_images/kentucky_fried_chicken_kfc_small.gif"
+        "image" :"logo_images/kentucky_fried_chicken_kfc_small.gif",
+        "level" :"easy"
       },
       {
         "question": "Guess the logo",
         "options": ["Qdoba", "Illy", "Coca-Cola", "Disney"],
         "answer": "Disney",
-        "image" : "logo_images/disney_entertainment_small.gif"
+        "image" : "logo_images/disney_entertainment_small.gif",
+        "level" :"easy"
       },
       {
         "question": "Guess the logo",
         "options": ["RCA", "Sony", "Sharp", "LG"],
         "answer": "LG",
-        "image":"logo_images/lg_electronics_small.gif"
+        "image":"logo_images/lg_electronics_small.gif",
+        "level" :"easy"
       },
       {
         "question": "Guess the logo",
         "options": ["Sega", "FDA", "The North Face", "CNN"],
         "answer": "The North Face",
-        "image": "logo_images/the_north_face_small.gif"
+        "image": "logo_images/the_north_face_small.gif",
+        "level" :"easy"
       },
       {
         "question": "Guess the logo",
         "options": ["British Airways", "Delta", "Lufthansa", "Boeing"],
         "answer": "British Airways",
-        "image": "logo_images/british_airways_small.gif"
+        "image": "logo_images/british_airways_small.gif",
+        "level" :"easy"
       },
       {
         "question": "Guess the logo",
         "options": ["Mobil", "Shell", "Citgo", "BP"],
         "answer": "BP",
-        "image": "logo_images/bp_small.gif"
+        "image": "logo_images/bp_small.gif",
+        "level" :"easy"
       },
       {
         "question": "Guess the logo",
         "options": ["Paramount", "Dreamworks", "New Line Cinema", "Metro-Goldwyn-Mayer"],
         "answer": "New Line Cinema",
-        "image": "logo_images/new_line_cinema_small.gif"
+        "image": "logo_images/new_line_cinema_small.gif",
+        "level" :"easy"
       },
       {
         "question": "Which is the correct NASA logo?",
         "options": ["A", "B"],
         "answer": "A",
-        "image": "logo_images/NASA.png"
+        "image": "logo_images/NASA.png",
+        "level" : "hard"
       },
       {
         "question": "Which is the correct adidas logo?",
         "options": ["A", "B"],
         "answer": "B",
-        "image": "logo_images/adidas.png"
+        "image": "logo_images/adidas.png",
+        "level" :"hard"
       },
       {
         "question": "Which is the correct BMW logo?",
         "options": ["A", "B"],
         "answer": "B",
-        "image": "logo_images/BMW.png"
+        "image": "logo_images/BMW.png",
+        "level" :"hard"
       },
     
       {
         "question": "Which is the correct amazon logo?",
         "options": ["A", "B"],
         "answer": "B",
-        "image": "logo_images/amazon.png"
+        "image": "logo_images/amazon.png",
+        "level" :"hard"
       },
       
       {
         "question": "Which is the correct Starbucks logo?",
         "options": ["A", "B"],
         "answer": "A",
-        "image": "logo_images/Starbucks.png" 
+        "image": "logo_images/Starbucks.png",
+        "level" :"hard"
       },
       {
         "question": "Which is the correct Marmite logo?",
         "options": ["A", "B"],
         "answer": "A",
-        "image": "logo_images/Marmite.png" 
+        "image": "logo_images/Marmite.png",
+        "level" :"hard" 
       },
       
       {
         "question": "Which is the correct Domino's logo?",
         "options": ["A", "B"],
         "answer": "A",
-        "image": "logo_images/Domino's.png"
+        "image": "logo_images/Domino's.png",
+        "level" :"hard"
       },
       {
         "question": "Which is the correct Cadbury logo?",
         "options": ["A", "B"],
         "answer": "A",
-        "image": "logo_images/Cadbury.png"
+        "image": "logo_images/Cadbury.png",
+        "level" :"hard"
       },
       {
         "question": "Which is the correct App Store logo?",
         "options": ["A", "B"],
         "answer": "B",
-        "image": "logo_images/Apple_store.png"
+        "image": "logo_images/Apple_store.png",
+        "level":"hard"
       },
       {
         "question": "Which is the correct Google logo?",
         "options": ["A", "B"],
         "answer": "A",
-        "image": "logo_images/Google.png"
+        "image": "logo_images/Google.png",
+        "level":"hard"
       }
     ]
   }
