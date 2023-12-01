@@ -11,18 +11,18 @@
             margin: 0;
             padding: 0;
             background: url('worldmap.jpg') center/cover no-repeat fixed;
-            background-color: rgba(0, 0, 0, 0.8); /* Reduced opacity for better visibility */
-            color: #006400;
-        }
-
-        h1 {
+            background-color: rgba(63, 63, 63, 0.8); /* Reduced opacity for better visibility */
             color: #000000;
         }
 
+        h1 {
+            color: #000000
+        }
+
         #quiz-container {
-            background-color: rgba(0, 0, 0, 0.8); /* Reduced opacity for better visibility */
+            background-color: rgba(101, 67, 33, 0.8); /* Reduced opacity for better visibility */
             border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 0 10px rgba(63, 63, 63, 0.8);
             padding: 20px;
             margin-top: 20px;
             max-width: 600px;
@@ -32,6 +32,8 @@
 
         #question-container {
             margin-bottom: 20px;
+            font-size: larger;
+            font: bolder;
         }
 
         #options-container {
@@ -41,8 +43,8 @@
         }
 
         button {
-            background-color: #006400;
-            color: #000000;
+            background-color: #000000;
+            color: #ffffff;
             border: none;
             padding: 10px 20px;
             border-radius: 5px;
@@ -52,7 +54,7 @@
         }
 
         button:hover {
-            background-color: #000000;
+            background-color: #412b15CC;
         }
 
         img {
@@ -64,11 +66,12 @@
     </style>
 </head>
 <body>
-    <h1>Geo Guesser</h1>
+    
     <div id="quiz-container">
+        <h1>Geo Guesser</h1>
         <div id="question-container"></div>
         <div id="options-container"></div>
-        <button onclick="nextQuestion()">Next</button>
+        <button id ="next-button" onclick="nextQuestion()" disabled>Next</button>
     </div>
 
     <script src="Geo.js"></script>
