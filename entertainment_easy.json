@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Guess the song from this clip?",
+    "audioFile": "Abba-Gimme Gimme Gimme _Clip.mp3",
+    "options": ["Abba - Gimme Gimme Gimme", "Ace of Base - All That She Wants", "Bee Gees - Stayin' Alive", "Adelle - Set Fire to the Rain"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Identify the speaker.",
+    "audioFile": "Adele_01.mp3",
+    "options": ["Taylor Swift", "Lana Del Ray", "Adele", "Billie Eilish"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Identify the song.",
+    "audioFile": "Adele_Hello.mp3",
+    "options": ["Dua Lipa - Levitating", "Adelle - Hello", "Rihanna - Diamonds", "Katy Perry - Roar"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Identify this song from the clip playing backwards.",
+    "audioFile": "Beyonce - Halo_Clip.mp3",
+    "options": ["Katy Perry - Firework", "Beyonce - Halo", "Taylor Swift - Cardigan", "Abba - Does your Mother Know"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Who is this?",
+    "audioFile": "Cristiano Ronaldo_01.mp3",
+    "options": ["Christiano Ronaldo", "Kylian Mbappe", "Harry Kane", "Lionel Messi"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Guess the movie from this theme song",
+    "audioFile": "ET.mp3",
+    "options": ["Home Alone", "Batman", "A Christmas Carol", "ET - The Extra Terrestrial"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Guess the movie from this theme song.",
+    "audioFile": "Entertainment\\Entertainment_Media\\Easy\\Harry_Potter.mp3",
+    "options": ["Civil War", "Harry Potter", "Lord of the Rings", "Game of Thrones"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Who is this?",
+    "audioFile": "Harry_Potter.mp3",
+    "options": ["Zaym Malik", "Elton John", "Ed Sheeran", "Harry Styles"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Guess the character.",
+    "audioFile": "Joey Tribbiani_01.mp3",
+    "options": ["Howard Wolowitz", "Mr. Bean", "Joey Tribbiani", "Jake Peralta"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Who is this?",
+    "audioFile": "Sheldon Cooper_01.mp3",
+    "options": ["Ross Geller", "George Costanza", "Michael Scott", "Sheldon Cooper"],
+    "correctAnswer": 3
+  }
+]

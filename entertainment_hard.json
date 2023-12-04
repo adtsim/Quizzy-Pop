@@ -1,0 +1,68 @@
+[
+    {
+      "question": "Identify the movie from this theme song.",
+      "audioFile": "Back To The Future.mp3",
+      "options": ["Resident Evil", "The Dark Knight", "Back to the Future", "Spiderman"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Identify this song from the clip playing backwards.",
+      "audioFile": "BCKWRD_Backstreet Boys.mp3",
+      "options": ["Billie Joel - Uptown Girl", "Backstreet Boys - Everybody", "One Direction - Moments", "BTS - Butter"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Guess the song from this short intro audio clip.",
+      "audioFile": "Bee Gees - Stayin' Alive_Clip.mp3",
+      "options": ["Eagles - Hotel California", "Queen - Mama", "Bon Jovi - Its My Life", "Bee Gees - Stayin Alive"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Identify the movie from this theme song.",
+      "audioFile": "Batman.mp3",
+      "options": ["Batman", "Spiderman", "Superman", "Antman"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Identify this song from the clip playing backwards.",
+      "audioFile": "BCKWRD_Ace of Base-All That She Wants.mp3",
+      "options": ["Dua Lipa - Levitating", "Adelle - Set Fire to the Rain", "Ace of Base-All That She Wants", "Katy Perry - Roar"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Who's impersonation is this?",
+      "audioFile": "Jennifer Aniston_01.mp3",
+      "options": ["Sandra Bullock", "Jennifer Aniston", "Ellen", "Anne Hathaway"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Identify the songs present in this mixture.",
+      "audioFile": "Mixup_007.mp3",
+      "options": ["Katy Perry-I Kissed A Girl + Spandau Ballet-Gold + Steve Miller Band-The Joker",
+                  "Elton John-Skyline Pigeon + Ed Sheeran-Perfect + Harry Styles-Golden",
+                  "Adelle-Set Fire to the Rain + Backstreet Boys-Everybody + BTS-Dynamite",
+                  "Dua Lipa-Nothing Breaks Like a Heart + Adele-Hello + Billie Eilish-Isn't it Lovely"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Identify this song from the clip playing backwards.",
+      "audioFile": "BCKWRD_Dean Martin-Let It Snow.mp3",
+      "options": ["Elton John-Skyline Pigeon", "Bryan Adams - Summer of '69", "Coldplay - Yellow", "Dean Martin-Let It Snow"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Who is this?",
+      "audioFile": "Will I Am_01.mp3",
+      "options": ["Snoop Dog", "Travis Scott", "Will.I.Am", "Drake"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Identify the songs present in this mixture.",
+      "audioFile": "Mixup_009.mp3",
+      "options": ["Tears For Fears-Mad World + Britney Spears-Sometimes + Chaka Khan+Ain't Nobody",
+                  "Ricky Martin-Livin La Vida Loca + Grandmaster Flash-White Lines + The Verve-The Drugs Don't Work",
+                  "Melanie C-I Turn To You + Status Quo-Rocking All Over The World + Little Eva-The Locomotion",
+                   "Jake Peralta"],
+      "correctAnswer": 1
+    }
+  ]
