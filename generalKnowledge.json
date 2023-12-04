@@ -1,93 +1,65 @@
 {
-    "questions": [
-      {
-        "question": "In the film \"Schindler's List,\" what is Schindler's first name?",
-        "options": ["John", "Oscar", "Steven", "Thomas"],
-        "answer": "Oscar"
-      },
-      {
-       
-        "question": "Who is considered the father of computer science?",
-        "options": ["Alan Turing", "Bill Gates", "Steve Jobs", "Charles Babbage"],
-        "answer": "Alan Turing"
-      },
-      {
-        
-        "question": "In which year did the first modern Olympic Games take place?",
-        "options": ["1886", "1900", "1924", "1896"],
-        "answer": "1896"
-      },
-      {
-       
-        "question": "Which composer is known for his \"Moonlight Sonata\"?",
-        "options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"],
-        "answer": "Ludwig van Beethoven"
-      },
-      {
-       
-        "question": "What is the largest ocean on Earth?",
-        "options": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean", "Pacific Ocean"],
-        "answer": "Pacific Ocean"
-      },
-      {
-       
-        "question": "Which ancient wonder was located in the city of Babylon?",
-        "options": ["Great Pyramid of Giza", "Hanging Gardens of Babylon", "Temple of Artemis", "Statue of Zeus at Olympia"],
-        "answer": "Hanging Gardens of Babylon"
-      },
-      {
-       
-        "question": "Which mountain is the highest in Africa?",
-        "options": ["Mount Kilimanjaro", "Mount Elbrus", "Mount Everest", "Mount McKinley"],
-        "answer": "Mount Kilimanjaro"
-      },
-      {
-        
-        "question": "What is the chemical symbol for the element silver?",
-        "options": ["Si", "Ag", "Sr", "Sn"],
-        "answer": "Ag"
-      },
-      {
-        
-        "question": "Who was the first woman to win a Nobel Prize?",
-        "options": ["Marie Curie", "Mother Teresa", "Rosalind Franklin", "Amelia Earhart"],
-        "answer": "Marie Curie"
-      },
-      {
-        "category": "Literature",
-        "question": "In which play by William Shakespeare does the character Othello appear?",
-        "options": ["Romeo and Juliet", "Macbeth", "Othello", "Hamlet"],
-        "answer": "Othello"
-      },
-      {
-        
-        "question": "Who directed the film \"The Shawshank Redemption\"?",
-        "options": ["Christopher Nolan", "Quentin Tarantino", "Frank Darabont", "Steven Spielberg"],
-        "answer": "Frank Darabont"
-      },
-      {
-        
-        "question": "What programming language is the Linux operating system primarily written in?",
-        "options": ["Java", "C++", "Python", "Assembly"],
-        "answer": "Assembly"
-      },
-      {
-        
-        "question": "In which year did the Miracle on Ice occur during the Winter Olympics?",
-        "options": ["1972", "1980", "1984", "1992"],
-        "answer": "1980"
-      },
-      {
-        
-        "question": "Who composed the famous symphony known as the \"New World Symphony\"?",
-        "options": ["Ludwig van Beethoven", "Antonín Dvořák", "Johannes Brahms", "Pyotr Ilyich Tchaikovsky"],
-        "answer": "Antonín Dvořák"
-      },
-      {
-        "question": "What is the currency of South Korea?",
-        "options": ["Won", "Yen", "Ringgit", "Baht"],
-        "answer": "Won"
-      }
-    ]
-  }
+  "questions": [
+    {
+      "question": "In the film \"Schindler's List,\" what is Schindler's first name?",
+      "options": ["John", "Oscar", "Steven", "Thomas"],
+      "answer": "Oscar"
+    },
+    {
+     
+      "question": "Who is considered the father of computer science?",
+      "options": ["Alan Turing", "Bill Gates", "Steve Jobs", "Charles Babbage"],
+      "answer": "Alan Turing"
+    },
+    {
+      
+      "question": "In which year did the first modern Olympic Games take place?",
+      "options": ["1886", "1900", "1924", "1896"],
+      "answer": "1896"
+    },
+    {
+     
+      "question": "Which composer is known for his \"Moonlight Sonata\"?",
+      "options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"],
+      "answer": "Ludwig van Beethoven"
+    },
+    
+    {
+     
+      "question": "Which ancient wonder was located in the city of Babylon?",
+      "options": ["Great Pyramid of Giza", "Hanging Gardens of Babylon", "Temple of Artemis", "Statue of Zeus at Olympia"],
+      "answer": "Hanging Gardens of Babylon"
+    },
   
+    {
+      
+      "question": "What is the chemical symbol for the element silver?",
+      "options": ["Si", "Ag", "Sr", "Sn"],
+      "answer": "Ag"
+    },
+    {
+      
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "options": ["Marie Curie", "Mother Teresa", "Rosalind Franklin", "Amelia Earhart"],
+      "answer": "Marie Curie"
+    },
+    {
+      "category": "Literature",
+      "question": "In which play by William Shakespeare does the character Othello appear?",
+      "options": ["Romeo and Juliet", "Macbeth", "Othello", "Hamlet"],
+      "answer": "Othello"
+    },
+    {
+      
+      "question": "Who directed the film \"The Shawshank Redemption\"?",
+      "options": ["Christopher Nolan", "Quentin Tarantino", "Frank Darabont", "Steven Spielberg"],
+      "answer": "Frank Darabont"
+    },
+    {
+      
+      "question": "What programming language is the Linux operating system primarily written in?",
+      "options": ["Java", "C++", "Python", "Assembly"],
+      "answer": "Assembly"
+    }
+  ]
+}

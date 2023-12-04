@@ -1,0 +1,59 @@
+{
+  "questions": [
+  {
+    "question": "What is the capital city of France?",
+    "options": ["Rome", "Paris", "London", "Berlin"],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["W", "O", "H", "WO"],
+    "answer": "H"
+  },
+  {
+    "question": "Who is known for writing plays like 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the famous wizarding school in the Harry Potter series?",
+    "options": [
+      "Camelot School of Witchcraft",
+      "Hogwarts School of Witchcraft and Wizardry",
+      "Merlin's Academy",
+      "Eldritch Institute"
+    ],
+    "answer": "Hogwarts School of Witchcraft and Wizardry"
+  },
+  {
+    "question": "Which animated film features a young lion cub named Simba?",
+    "options": ["Finding Nemo", "The Lion King", "Toy Story", "Frozen"],
+    "answer": "The Lion King"
+  },
+  {
+    "question": "What does the acronym 'WWW' stand for in a website's URL?",
+    "options": ["World Web Wires", "World Wide Web", "Web World Wide", "Wonderful Web World"],
+    "answer": "World Wide Web"
+  },
+  {
+    "question": "In which sport would you perform a slam dunk?",
+    "options": ["Soccer", "Basketball", "Tennis", "Golf"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "Who is known as the 'King of Pop'?",
+    "options": ["Elvis Presley", "Michael Jackson", "Madonna", "Beyoncé"],
+    "answer": "Michael Jackson"
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "options": ["Seoul", "Tokyo", "Beijing", "Bangkok"],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "In which country would you find the Great Wall?",
+    "options": ["China", "India", "Italy", "Brazil"],
+    "answer": "China"
+  }
+]
+}
