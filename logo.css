@@ -2,7 +2,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     margin: 20px;
-    background-color: #f8f8f8;
+    background-color: #EEE0C9;
     
 }
 
@@ -10,13 +10,17 @@ h1 {
     color: #333;
 }
 
+#confirmation-container {
+    margin-top: 20px;
+}
+
 #quiz-container {
     max-width: 600px;
     margin: 0 auto;
-    background-color:transparent;
+    background-color:#F1F0E8;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(184, 117, 117, 0.1);
 }
 
 #question-container {
@@ -32,7 +36,7 @@ h1 {
 
 #options-container button {
     background-color: #4caf50;
-    color: #fff;
+    color: #ffffff;
     padding: 10px 15px;
     margin: 5px;
     border: none;

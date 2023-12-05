@@ -188,11 +188,26 @@ function nextQuestion() {
 
 function showResult() {
     var quizContainer = document.getElementById('quiz-container');
+    var resultMessage;
+    var redirectButton;
+
     if (currentLevel === 'easy' && score < 7) {
-        quizContainer.innerHTML = '<h2>Quiz Completed!</h2><p>Your Score: ' + score + ' out of ' + (quizData.length) / 2 + '. The score is too low to proceed to the hard level.</p>';
+        resultMessage = '<h2>Quiz Completed!</h2><p>Your Score: ' + score + ' out of ' + (quizData.length) / 2 + '. The score is too low to proceed to the hard level.</p>';
+        redirectButton = '<button onclick="redirectToCategories()">Go to Categories</button>';
     } else {
-        var message = (currentLevel === 'easy') ? 'Well done! You\'ve completed the easy level.' : 'Quiz Completed!';
-        quizContainer.innerHTML = '<h2>' + message + '</h2><p><b>Congratulations!<b><br>Your Score: ' + score + ' out of ' + quizData.length + '</p>';
+        resultMessage = '<h2>Quiz Completed!</h2><p>Your Score: ' + score + ' out of ' + quizData.length + '</p>';
+        if (currentLevel === 'hard') {
+            redirectButton = '<button onclick="redirectToCategories()">Go to Categories</button>';
+        } else {
+            redirectButton = '';
+        }
     }
+
+    quizContainer.innerHTML = resultMessage + redirectButton;
+}
+
+function redirectToCategories() {
+    // Replace 'categories.html' with the actual file path you want to redirect to
+    window.location.href = 'Categories.html';
 }
 
