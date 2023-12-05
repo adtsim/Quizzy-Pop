@@ -1,54 +1,127 @@
 {
     "questions": [
       {
-        "question": "Which country is known as the 'Land of the Rising Sun?'",
+        "question": "Which country is known as the Land of the Rising Sun?",
         "options": ["China", "Japan", "South Korea", "Vietnam"],
-        "answer": "Japan"
+        "answer": "Japan",
+        "level": "easy"
       },
       {
         "question": "What is the capital of Brazil?",
         "options": ["Buenos Aires", "Rio de Janeiro", "Brasília", "Santiago"],
-        "answer": "Brasília"
+        "answer": "Brasília",
+        "level": "easy"
       },
       {
         "question": "Which river is the longest in the world?",
         "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
-        "answer": "Nile River"
+        "answer": "Nile River",
+        "level": "easy"
       },
       {
         "question": "In which continent is the Sahara Desert located?",
         "options": ["Asia", "Africa", "South America", "Australia"],
-        "answer": "Africa"
+        "answer": "Africa",
+        "level": "easy"
       },
       {
         "question": "What is the currency of India?",
         "options": ["Rupee", "Baht", "Yen", "Rupiah"],
-        "answer": "Rupee"
+        "answer": "Rupee",
+        "level": "easy"
       },
       {
         "question": "Which mountain is the highest in North America?",
         "options": ["Mount Kilimanjaro", "Mount Everest", "Denali (Mount McKinley)", "Mount Elbrus"],
-        "answer": "Denali (Mount McKinley)"
+        "answer": "Denali (Mount McKinley)",
+        "level": "easy"
       },
       {
         "question": "Where is the Great Barrier Reef located?",
         "options": ["Hawaii", "Australia", "Belize", "Philippines"],
-        "answer": "Australia"
+        "answer": "Australia",
+        "level": "easy"
       },
       {
         "question": "What is the capital of Canada?",
         "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
-        "answer": "Ottawa"
+        "answer": "Ottawa",
+        "level": "easy"
       },
       {
         "question": "Which ocean is the largest?",
         "options": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Southern Ocean"],
-        "answer": "Pacific Ocean"
+        "answer": "Pacific Ocean",
+        "level": "easy"
       },
       {
         "question": "What is the official language of Argentina?",
         "options": ["Portuguese", "Spanish", "Italian", "French"],
-        "answer": "Spanish"
-      }
+        "answer": "Spanish",
+        "level": "easy"
+      },
+      
+        {
+          "question": "Which African country is known as the 'Land of a Thousand Hills'?",
+          "options": ["Kenya", "Rwanda", "Uganda", "Tanzania"],
+          "answer": "Rwanda",
+          "level": "hard"
+        },
+        {
+          "question": "In which South American country can you find the Nazca Lines?",
+          "options": ["Peru", "Chile", "Ecuador", "Brazil"],
+          "answer": "Peru",
+          "level": "hard"
+        },
+        {
+          "question": "What is the capital city of Mongolia?",
+          "options": ["Ulaanbaatar", "Astana", "Bishkek", "Dushanbe"],
+          "answer": "Ulaanbaatar",
+          "level": "hard"
+        },
+        {
+          "question": "Which European city is known as the 'City of Canals'?",
+          "options": ["Venice", "Amsterdam", "Bruges", "Copenhagen"],
+          "answer": "Venice",
+          "level": "hard"
+        },
+        {
+          "question": "Which island nation in the Indian Ocean is famous for its lemurs?",
+          "options": ["Mauritius", "Maldives", "Madagascar", "Seychelles"],
+          "answer": "Madagascar",
+          "level": "hard"
+        },
+        {
+          "question": "In which U.S. state would you find Denali, the highest peak in North America?",
+          "options": ["Alaska", "Colorado", "California", "Montana"],
+          "answer": "Alaska",
+          "level": "hard"
+        },
+        {
+          "question": "What is the largest desert in the world by area?",
+          "options": ["Gobi Desert", "Sahara Desert", "Antarctica Desert", "Arabian Desert"],
+          "answer": "Antarctica Desert",
+          "level": "hard"
+        },
+        {
+          "question": "Which river is the longest in the world?",
+          "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+          "answer": "Nile River",
+          "level": "hard"
+        },
+        {
+          "question": "In which country would you find the ancient city of Petra?",
+          "options": ["Greece", "Jordan", "Turkey", "Egypt"],
+          "answer": "Jordan",
+          "level": "hard"
+        },
+        {
+          "question": "Which ocean is the largest by surface area?",
+          "options": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean", "Pacific Ocean"],
+          "answer": "Pacific Ocean",
+          "level": "hard"
+        }
+      
+      
     ]
   }
