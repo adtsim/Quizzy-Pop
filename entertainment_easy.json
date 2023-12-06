@@ -37,13 +37,13 @@
   },
   {
     "question": "Guess the movie from this theme song.",
-    "audioFile": "Entertainment\\Entertainment_Media\\Easy\\Harry_Potter.mp3",
+    "audioFile": "Harry_Potter.mp3",
     "options": ["Civil War", "Harry Potter", "Lord of the Rings", "Game of Thrones"],
     "correctAnswer": 1
   },
   {
     "question": "Who is this?",
-    "audioFile": "Harry_Potter.mp3",
+    "audioFile": "Harry_Styles.mp3",
     "options": ["Zaym Malik", "Elton John", "Ed Sheeran", "Harry Styles"],
     "correctAnswer": 3
   },
